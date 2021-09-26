@@ -1,6 +1,7 @@
 # Hi there 👋 I am Nick - AKA Nickzz 😀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickzzDev&label=Profile%20views&color=0e75b6&style=flat" alt="nickzzdev" /> </p>
+
 ![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
