@@ -1,6 +1,6 @@
 # Hi there, I am Nickzz, and I am a Young Intermediate Javascript Developer and Gamer!
 
-## ✉️ Join My Servers:
+## ✉️ Join My Discord Servers:
 
 
 <p align="center">
