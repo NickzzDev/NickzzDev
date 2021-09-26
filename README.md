@@ -35,8 +35,8 @@
 
 ## Other Information:
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="200" style="vertical-align:left; margin:4px">
- <p align="center">
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickzzDev&layout=compact)
  </p>
