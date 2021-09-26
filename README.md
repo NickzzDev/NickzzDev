@@ -1,6 +1,6 @@
 # Hi there 👋 I am Nick - AKA Nickzz 😀
 
-![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
+![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord) <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickzzDev&label=Profile%20views&color=0e75b6&style=flat" alt="nickzzdev" /> </p>
 
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
@@ -40,18 +40,8 @@
 
 ## Other Information:
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="200" style="vertical-align:left; margin:4px">
-  </p>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickzzDev&layout=compact)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NickzzDev&label=Profile%20views&color=0e75b6&style=flat" alt="nickzzdev" /> </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickzzDev&show_icons=true&locale=en&layout=compact" alt="nickzzdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true&locale=en" alt="nickzzdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NickzzDev&" alt="nickzzdev" /></p>
 
