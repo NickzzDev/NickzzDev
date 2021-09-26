@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickzzDev&label=Profile%20views&color=0e75b6&style=flat" alt="nickzzdev" /> </p>
 
-![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
-
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
 - 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
@@ -22,6 +20,8 @@
 <p align="left">
  <a href="https://dsc.gg/nickzzmods" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/870907079337066496/888393470090293328/final_61428f9e79ef8a004d114d72_734378.gif" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
 <br />
 
