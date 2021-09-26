@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
+![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
 - Interested in FiveM? Join my FiveM Roleplay Server! [Click Here!](https://discord.gg/wbMUZaMVbE/) 
 <p align="left">
@@ -20,8 +21,6 @@
 <p align="left">
  <a href="https://dsc.gg/nickzzmods" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/870907079337066496/888393470090293328/final_61428f9e79ef8a004d114d72_734378.gif" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
 <br />
 
