@@ -1,5 +1,7 @@
 # Hi there 👋 I am Nickzz, but you can call me Nick 😀
 
+![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord&style=for-the-badge)
+
 ## 🎮 I Am a High School Student who is an Intermediate Javascript Developer and Gamer!!
 
 - 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
