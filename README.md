@@ -5,12 +5,11 @@
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
 - 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
-- 🌱 I’m currently learning Discord.js V13
+- 🌱 I’m currently learning Discord.js V13 and FiveM Development
 - 💬 How to contact me: Discord: Nickzz#8039
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-
 
 <p align="center">
  <a href="https://discord.gg/wbMUZaMVbE" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
