@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 [Nickzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" width="600px"/>
 
 ## ✉️ Join My Discord Servers:
 
