@@ -33,4 +33,4 @@
 
 ## Other Information:
 
-<img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="400" style="vertical-align:left; margin:4px">
+<img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="200" style="vertical-align:left; margin:4px">
