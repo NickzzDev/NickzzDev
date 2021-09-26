@@ -7,6 +7,7 @@
 - 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
 - 🌱 I’m currently learning Discord.js V13 and FiveM Development
 - 💬 How to contact me: Discord: Nickzz#8039
+- 💭 My Life Goal: To become a Royal Australian Air Force C17 Globemaster Pilot!
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
