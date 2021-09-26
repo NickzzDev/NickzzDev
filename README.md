@@ -33,3 +33,7 @@
  <img src="https://cdn.opsmatters.com/sites/default/files/logos/pm2-thumb.png" alt="Cmder" height="40" style="vertical-align:top; margin:4px">
  <img src="https://discordjs.guide/meta-image.png" alt="Cmder" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## Other Information:
+
+<img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="600" style="vertical-align:left; margin:4px">
