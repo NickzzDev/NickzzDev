@@ -11,7 +11,7 @@
 
 ## ✉️ Join My Discord Servers:
 
-<p align="center">
+<p align="left">
 - Interested in FiveM? Join my FiveM Roleplay Server! [Click Here!](https://discord.gg/wbMUZaMVbE/)  <a href="https://discord.gg/wbMUZaMVbE" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 - Interested in FiveM Mods as well as Discord Bots? Join my FiveM and Discord Bot Mod Server! [Click Here!](https://dsc.gg/nickzzmods/)  <a href="https://dsc.gg/nickzzmods" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/870907079337066496/888393470090293328/final_61428f9e79ef8a004d114d72_734378.gif" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
