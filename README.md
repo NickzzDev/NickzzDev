@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-
+https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png
 
 <p align="center">
  <a href="https://discord.gg/wbMUZaMVbE" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -18,7 +18,6 @@
 </p>
 
 <br />
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -35,4 +34,6 @@
 
 ## Other Information:
 
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true" alt="Nickzz Stats" height="200" style="vertical-align:left; margin:4px">
+ </p>
