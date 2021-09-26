@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Discord.js V13 and FiveM Development
 - 💬 How to contact me: Discord: Nickzz#8039
 - 💭 My Dream Goal: To become a Royal Australian Air Force C17 Globemaster Pilot!
-- ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
+- ⚡ Fun fact: I love playing Shooter & Aviation Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
 ![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
