@@ -1,4 +1,4 @@
-# Hi there 👋 I am Nickzz, but you can call me Nick 😀
+# Hi there 👋 I am Nick - AKA Nickzz 😀
 
 ![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
+
+- Interested in FiveM? Join my FiveM Roleplay Server! [Click Here!](https://discord.gg/wbMUZaMVbE/)
+- Interested in FiveM Mods as well as Discord Bots? Join my FiveM and Discord Bot Mod Server! [Click Here!](https://dsc.gg/nickzzmods/)
 
 <p align="center">
  <a href="https://discord.gg/wbMUZaMVbE" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
