@@ -39,7 +39,7 @@
  <img src="https://discordjs.guide/meta-image.png" alt="Cmder" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Other Information:
+## ✨ Other Information:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickzzDev&show_icons=true&locale=en&layout=compact" alt="nickzzdev" /></p>
 
