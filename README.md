@@ -7,6 +7,8 @@
 - 💬 How to contact me: Discord: Nickzz#8039
 - ⚡ Fun fact: I love playing Shooter Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
+[Nickzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickzzDev&show_icons=true)
+
 ## ✉️ Join My Discord Servers:
 
 
