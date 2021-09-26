@@ -1,6 +1,6 @@
 # Hi there 👋 I am Nickzz, but you can call me Nick 😀
 
-![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKWD6ZAku_Mx2-xKWrggP-Q?label=Subscribe%20to%20Me%21)
+![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
 
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
