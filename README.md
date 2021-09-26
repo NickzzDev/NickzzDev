@@ -1,6 +1,6 @@
 # Hi there 👋 I am Nickzz, but you can call me Nick 😀
 
-##🎮 I Am a High School Student who is an Intermediate Javascript Developer and Gamer!!
+## 🎮 I Am a High School Student who is an Intermediate Javascript Developer and Gamer!!
 
 - 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
 - 🌱 I’m currently learning Discord.js V13
