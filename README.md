@@ -4,19 +4,14 @@
 
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
-- 🔭 I’m currently developing a FiveM Server called [Project NightFall](https://discord.gg/wbMUZaMVbE/) and Project NightFall Discord Bot
+- 🔭 I’m currently developing a Discord FiveM Bot called [FiveM Genie](https://discord.com/oauth2/authorize?client_id=894901011112685588&permissions=8589934591&scope=bot/)! Support Server: [Click Here](https://discord.com/invite/VQtWjhHVE4/)
 - 🌱 I’m currently learning Discord.js V13 and FiveM Development
 - 💬 How to contact me: Discord: Nickzz#8039
 - 💭 My Dream Goal: To become a Royal Australian Air Force C17 Globemaster Pilot!
 - ⚡ Fun fact: I love playing Shooter & Aviation Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-![Discord](https://img.shields.io/discord/864444053700214806?label=Project%20NightFall&logo=Discord) ![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
-
-- Interested in FiveM? Join my FiveM Roleplay Server! [Click Here!](https://discord.gg/wbMUZaMVbE/) 
-<p align="left">
- <a href="https://discord.gg/wbMUZaMVbE" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/871366068273291274/885102257744543765/NFRPportalLogover3.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- </p>
+![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
  
 - Interested in FiveM Mods as well as Discord Bots? Join my FiveM and Discord Bot Mod Server! [Click Here!](https://dsc.gg/nickzzmods/)  
 <p align="left">
