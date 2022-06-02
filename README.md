@@ -4,14 +4,14 @@
 
 ## 🎮 I Am a High School Student who is an Intermediate Javascript & FiveM Developer and Gamer!!
 
-- 🔭 I’m currently developing a Discord FiveM Bot called [FiveM Genie](https://discord.com/oauth2/authorize?client_id=894901011112685588&permissions=8589934591&scope=bot/)! Support Server: [Click Here](https://discord.com/invite/VQtWjhHVE4/)
+- 🔭 I’m currently developing a Discord FiveM Bot for Revive RP. Feel free to join! [Click Here](https://discord.gg/z34AZZhtDD)
 - 🌱 I’m currently learning Discord.js V13 and FiveM Development
 - 💬 How to contact me: Discord: Nickzz#8039
 - 💭 My Dream Goal: To become a Royal Australian Air Force C17 Globemaster Pilot!
 - ⚡ Fun fact: I love playing Shooter & Aviation Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-![Discord](https://img.shields.io/discord/826410967440556043?label=Nickzz%20Mods&logo=Discord)
+![Discord](https://img.shields.io/discord/914730780880695297?label=Chilling on%20FUT&logo=Discord)
  
 - Interested in FiveM Mods as well as Discord Bots? Join my FiveM and Discord Bot Mod Server! [Click Here!](https://dsc.gg/nickzzmods/)  
 <p align="left">
