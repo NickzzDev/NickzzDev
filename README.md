@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love playing Shooter & Aviation Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-![Discord]([https://img.shields.io/discord/914730780880695297](https://img.shields.io/discord/914730780880695297?logo=Chilling%20on%20FUT))
+https://img.shields.io/discord/914730780880695297?logo=Chilling%20on%20FUT
  
 - Interested in FiveM Mods as well as Discord Bots? Join my FiveM and Discord Bot Mod Server! [Click Here!](https://dsc.gg/nickzzmods/)  
 <p align="left">
