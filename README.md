@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love playing Shooter & Aviation Games and Playing/Watching Football! Manchester United is my Favourite Team!
 
 ## ✉️ Join My Discord Servers:
-[Chilling on FUT](https://discord.gg/crZDGbhqta/) FIFA Server
+⚽ - [Chilling on FUT](https://discord.gg/crZDGbhqta/) FIFA Server
  
 <p align="left">
 </p>
